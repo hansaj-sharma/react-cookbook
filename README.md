@@ -1,3 +1,6 @@
+# About project
+This is a cookbook/recipe app made using React and Firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
